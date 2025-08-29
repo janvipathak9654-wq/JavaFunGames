@@ -48,8 +48,6 @@ The computer randomly selects a letter from a to z. You have *5 attempts* to gue
 ---
 
 ## General Notes
-
-- Both programs use the class name Main. Save each game in a separate .java file if you want to run them independently.  
 - Make sure Java is installed to compile and run the programs.  
 - You can adjust the number of attempts or ranges in the programs as desired.  
 - Perfect for beginners learning Java programming, loops, conditionals, and console input/output.
