@@ -8,7 +8,7 @@ Have fun testing your intuition and logic with these two interactive console gam
 
 1. *Number Guessing Game* – Can you guess the number the computer has chosen?  
 2. *Letter Guessing Game* – Can you guess the hidden letter from a to z?
-3.Rock Paper Scissors With Computer - Try this and check if u really can beat computer.
+3. *Rock Paper Scissors With Computer* - Try this and check if u really can beat computer.
 
 
 ## General Notes
